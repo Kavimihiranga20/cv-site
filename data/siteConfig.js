@@ -70,7 +70,7 @@ module.exports = {
     github: "https://github.com/Kavimihiranga20",
     email: "kmvithanage48@gmail.com"
   },
-  
+  siteUrl: 'https://kavimihiranga20.github.io/cv-site/',
   pathPrefix: '/cv-site', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
