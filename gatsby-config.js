@@ -39,7 +39,7 @@ module.exports = {
     // 'gatsby-plugin-offline',
   ],
   
-    pathPrefix: "/cv.site",
+    pathPrefix: "/cv-site"
   
 
 
