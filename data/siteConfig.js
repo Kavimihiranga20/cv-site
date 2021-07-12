@@ -53,7 +53,7 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/avatar.jpeg",
+      image: "/images/gatsby-starter-cv.png",
       description: "Gatsby starter CV template",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
