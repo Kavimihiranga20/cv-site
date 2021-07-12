@@ -72,7 +72,7 @@ module.exports = {
   },
   siteUrl: 'https://kavimihiranga20.github.io/cv-site/',
   pathPrefix: '/cv-site', // Note: it must *not* have a trailing slash.
-  siteCover: "/images/awesome-grid.png",
+  siteCover: "/images/cover.jpeg",
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
