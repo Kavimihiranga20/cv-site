@@ -3,7 +3,7 @@ module.exports = {
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Kavindu Mihiranga',
   githubUsername: 'Kavimihiranga20',
-  authorAvatar: "static/images/avatar.jpeg",
+  authorAvatar: "/images/avatar.jpeg",
   authorDescription: `I am an ambitious and positive person who enjoys taking up challenges in the field of Software Engineering. I am passionate about combining the knowledge of programming with my analytical skills. I always commit myself to continuous improvement and believe in endless opportunities. I am also a friendly and a polite person who enjoys team working.`,
   skills: [
     {
@@ -53,7 +53,7 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
+      image: "/images/avatar.jpeg",
       description: "Gatsby starter CV template",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
     },
