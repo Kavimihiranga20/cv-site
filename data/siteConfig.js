@@ -3,7 +3,7 @@ module.exports = {
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Kavindu Mihiranga',
   githubUsername: 'Kavimihiranga20',
-  authorAvatar: '/Images/avatar.jpeg',
+  authorAvatar: "/images/avatar.jpeg",
   authorDescription: `I am an ambitious and positive person who enjoys taking up challenges in the field of Software Engineering. I am passionate about combining the knowledge of programming with my analytical skills. I always commit myself to continuous improvement and believe in endless opportunities. I am also a friendly and a polite person who enjoys team working.`,
   skills: [
     {
@@ -72,7 +72,7 @@ module.exports = {
   },
   siteUrl: 'https://kavimihiranga20.github.io/cv-site/',
   pathPrefix: '/cv-site', // Note: it must *not* have a trailing slash.
-  siteCover: '/images/cover.jpeg',
+  siteCover: "/images/cover.jpeg",
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
   theme_color: '#25303B',
